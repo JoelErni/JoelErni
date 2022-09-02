@@ -5,7 +5,8 @@
 >
 >
 >
->Meine Webseite (IPT-3.1):  ```[ipt3.joel-erni1.bbzwinf.ch](https://ipt3.joel-erni1.bbzwinf.ch)```
+>Meine Webseite (IPT-3.1):  [ipt3.joel-erni1.bbzwinf.ch](https://ipt3.joel-erni1.bbzwinf.ch)
+>```https://www.ipt3.joel-erni1.bbzwinf.ch```
 >
 >![Website Status](https://img.shields.io/website?down_message=offline&label=Website%20Status&style=for-the-badge&up_message=online&url=https%3A%2F%2Fipt3.joel-erni1.bbzwinf.ch)  
 
