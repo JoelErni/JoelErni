@@ -1,5 +1,5 @@
 ![Allgemein Bild](/Allgemein.png)
->Joel Pascal Erni, Männlich, 16. \
+>Joel Pascal Erni, Männlich, 17. \
 >Zurzeit bin ich im 2. Jahr der Informatikmittelschule in Luzern. \
 >Meine Hobbys sind Videospiele, Programmieren und 3D Modellierung.
 >
