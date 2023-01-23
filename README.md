@@ -67,7 +67,7 @@
 \
 \
 ![Allgemein Bild](/Projekte.png)
-## Aktuelle Projekte (24.08.2022)
+## Aktuelle Projekte (23.01.2023)
 
 - keine
 
