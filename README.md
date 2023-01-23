@@ -69,13 +69,14 @@
 ![Allgemein Bild](/Projekte.png)
 ## Aktuelle Projekte (24.08.2022)
 
- - M294 - Frontend einer interaktiven Webapplikation realisieren
+- keine
 
 ## Abgeschlossene Projekte
 
  - [IPT-3.1 - Webseite](https://github.com/JoelErni/IPT3.1-Webseite)
  - [IPT-2.1 - Unity Spiel](https://github.com/JoelErni/IPT-2.1-Unity/tree/master)
  - [M122 - Powershell Backup-Skript](https://github.com/JoelErni/M122-Backup)
+  - M294 - Frontend einer interaktiven Webapplikation realisieren
 
 \
 \
