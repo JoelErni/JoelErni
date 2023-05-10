@@ -43,6 +43,10 @@
 		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="125" alt="MongoDB" style="margin: 10px">
 		    <p align="center">MongoDB</p>
    	    </td>
+		            <td style="padding:10px">
+            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="125" alt="Python">
+		    <p align="center">Python</p>
+            </td>
         </tr>
 </table>
 
@@ -56,10 +60,6 @@
         	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="125" alt="PHP">
 		    <p align="center">PHP</p>
       	    </td>
-            <td style="padding:10px">
-            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="125" alt="Python">
-		    <p align="center">Python</p>
-            </td>
             <td style="padding:10px">
             	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="125" alt="Java">
 		    <p align="center">Java</p>
