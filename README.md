@@ -43,9 +43,9 @@
 		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="125" alt="MongoDB" style="margin: 10px">
 		    <p align="center">MongoDB</p>
    	    </td>
-		            <td style="padding:10px">
+            <td>
             	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="125" alt="Python">
-		    <p align="center">Python</p>
+		<p align="center">Python</p>
             </td>
         </tr>
 </table>
