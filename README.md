@@ -45,7 +45,7 @@
 		    <p align="center">Powershell</p>
             </td
         </tr>
-	</table>
+</table>
 
 	
 
