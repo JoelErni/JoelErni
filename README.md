@@ -39,6 +39,10 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="125" alt="Powershell" style="margin: 10px">
 		    <p align="center">Powershell</p>
             </td
+            <td>
+		<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-icon.svg" width="125" alt="MongoDB" style="margin: 10px">
+		    <p align="center">MongoDB</p>
+            </td
         </tr>
 	</table>
 
