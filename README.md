@@ -1,6 +1,6 @@
 ![Allgemein Bild](/Allgemein.png)
 >Joel Pascal Erni, Männlich, 17. \
->Zurzeit bin ich im 2. Jahr der Informatikmittelschule in Luzern. \
+>Zurzeit bin ich im 3. Jahr der Informatikmittelschule in Luzern. \
 >Meine Hobbys sind Videospiele, Programmieren und 3D Modellierung.
 >
 >
@@ -47,25 +47,13 @@
             	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="125" alt="Python">
 		<p align="center">Python</p>
             </td>
+		<td style="padding:10px">
+		    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="125" alt="PHP">
+		    <p align="center">PHP</p>
+      	    </td>
         </tr>
 </table>
 
-	
-
-### Am lernen / wenig Erfahrung
-
-<table>
-	<tr>
-    	    <td style="padding:10px">
-        	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="125" alt="PHP">
-		    <p align="center">PHP</p>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="125" alt="Java">
-		    <p align="center">Java</p>
-            </td>
-        </tr>
-    </table>
 
 \
 \
